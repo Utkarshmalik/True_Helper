@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNContainerView.m \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNContainerView.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/Lottie.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationTransitionController.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimatedSwitch.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimatedControl.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTCacheProvider.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationView.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationView_Compat.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTComposition.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTKeypath.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTValueDelegate.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationCache.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTBlockCallback.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTInterpolatorCallback.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/Lottie/LOTValueCallback.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

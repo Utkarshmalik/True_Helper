@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView.m \
+  /Users/utkarshmalik/TrueHelper2/ios/build/TrueHelper2/Build/Intermediates.noindex/Lottie.build/Debug-iphonesimulator/Lottie_iOS.build/module.modulemap \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView_Compat.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTKeypath.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueDelegate.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/MacCompatibility/LOTPlatformCompat.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTModels.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTKeyframe.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTBezierData.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTLayer.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTMask.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeCircle.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeFill.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeGroup.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapePath.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeRectangle.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTLayerGroup.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTAsset.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeGradientFill.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Extensions/LOTHelpers.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Extensions/UIColor+Expanded.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Extensions/CGGeometry+LOTAdditions.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Extensions/LOTBezierPath.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView_Internal.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationCache.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.h \
+  /Users/utkarshmalik/TrueHelper2/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTAssetGroup.h

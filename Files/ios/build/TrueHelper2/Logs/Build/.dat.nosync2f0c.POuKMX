@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>57EF371B-1D54-41D3-AAE1-960C8167BD80</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57EF371B-1D54-41D3-AAE1-960C8167BD80.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TrueHelper2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TrueHelper2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TrueHelper2 with scheme TrueHelper2 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>581417109.25460196</real>
+			<key>timeStoppedRecording</key>
+			<real>581417111.93176794</real>
+			<key>title</key>
+			<string>Building project TrueHelper2 with scheme TrueHelper2 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>57EF371B-1D54-41D3-AAE1-960C8167BD80</string>
+		</dict>
+		<key>74A12040-DF00-4517-A1B5-D536DA9E03B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74A12040-DF00-4517-A1B5-D536DA9E03B7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TrueHelper2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TrueHelper2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TrueHelper2 with scheme TrueHelper2 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>581413695.29896903</real>
+			<key>timeStoppedRecording</key>
+			<real>581413697.31988895</real>
+			<key>title</key>
+			<string>Building project TrueHelper2 with scheme TrueHelper2 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>74A12040-DF00-4517-A1B5-D536DA9E03B7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
